@@ -1,0 +1,13 @@
+/*---foo.css----------------------------------------- */
+
+body {
+	line-height: 1;
+	color: black;
+	background: white;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}

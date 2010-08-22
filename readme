@@ -1,0 +1,8 @@
+concat README
+
+concatCSS.command is a shell script which indexes a current folder and all of its children for files with filetype .css.
+
+It takes all of the files found and compiles them into a single file called main.css. Similarly, the script can be adapted for .js files.
+
+This is useful because it allows development to happen over several defferent files in an object-oriented fashion, but at the end only a single include file is needed in the html.
+

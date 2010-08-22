@@ -1,0 +1,25 @@
+/*---bar.css----------------------------------------- */
+
+header {
+	height: 100px;
+	min-width: 960px;
+	padding-bottom: 20px;
+	opacity: 0;	
+}
+
+header h1 {
+	text-align:center;	
+}
+
+header h2 {
+	text-align:center;
+	position: relative;
+	right: 173px;
+}
+
+#wrapper {
+	padding-top: 25px;
+	margin: auto;
+	width: 960px;
+	opacity: 0;
+}
